@@ -1,0 +1,85 @@
+% LaTeX resume using res.cls
+\documentclass{res}
+%\usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+%\usepackage{newcent}   % uses new century schoolbook postscript font 
+\newsectionwidth{0pt}  % So the text is not indented under section headings
+\usepackage{color,hyperref}
+\definecolor{darkblue}{rgb}{0.0,0.0,0.3}
+\hypersetup{colorlinks,breaklinks,
+            linkcolor=darkblue,urlcolor=darkblue,
+            anchorcolor=darkblue,citecolor=darkblue}
+\topmargin = -.5in
+\setlength{\textheight}{10in} 
+%%%%%%%%%%%%%%%%%%%%%%%%% Begin CV Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+\name{Christopher Rosenthal}
+\address{1136B 15th Ave\\Seattle, WA 98122} 
+\address{\textit{T:} (630) 788-0468\\\textit{Email:} crosenth@gmail.com}
+\begin{resume}
+
+\section{Experience}
+
+\href{http://depts.washington.edu/labweb/}{\textbf{University of Washington Department of Laboratory Medicine}},
+Seattle, Washington USA\\
+\textit{Senior Bioinformatics Software Engineer} \hfill \textbf{2012 - Present}
+
+\href{http://www.seattletimes.com/}{\textbf{The Seattle Times Company}},
+Seattle, Washington USA\\
+\textit{Software Engineer} \hfill \textbf{2010 - Present}
+\begin{itemize} \itemsep -2pt
+\item Responsible for support and scalability of software applications designed for digital technologies.
+\item Optimized legacy content management code base and server infrastructure to streamline engineering development and support.
+\item Successfully worked with journalists and nontechnical stakeholders in development, testing and deployment of software applications.
+\end{itemize}
+
+\href{http://www.indiana.edu/~folklore/}{\textbf{Indiana University Department of Folklore \& Ethnomusicology}}, Bloomington, Indiana USA\\
+\textit{Software Engineer, \href{http://www.iub.edu/~wer/}{WER Virtual Museum project}} \hfill \textbf{2008 - 2010}
+\begin{itemize} \itemsep -2pt
+\item Refactored and optimized the existing web site code base.
+\item Created a software environment for nontechnical professors to easily manage future updates and deliver content to a wider audience of students.
+\end{itemize}
+
+\href{http://geology.indiana.edu/}{\textbf{Indiana University Department of Geological Sciences}}, Bloomington, Indiana USA\\
+\textit{Bioinformatics Software Engineer} \hfill \textbf{2008 - 2009}
+\begin{itemize} \itemsep -2pt
+\item Designed and implemented a first ever coral reef gene ontology algorithm to construct relationships between coral reef diseases and their environments all over the world.
+\item Designed a relational database schema to facilitate the organization of coral reef data.
+\item Developed a Microsoft Virtual Earth and Google Earth visualization of the disease ontology.
+\end{itemize}
+
+\href{http://www.regenstrief.org/}{\textbf{Regenstrief Institute}},
+Indianapolis, Indiana USA\\
+\textit{Software Engineer and Research Assistant} \hfill \textbf{2005 - 2007}
+\begin{itemize} \itemsep -2pt
+\item Responsible for all phases of medical research software development including the testing, designing and implementation of medical software aimed at streamlining health care and establishing a basis for the management of electronic medical records.
+\item Administered projects including the \href{http://aurora.regenstrief.org/mw}{Medical Workstation (MW)}, \href{http://aurora.regenstrief.org/javasig}{Java SIG HL$_{7}$} and XSLT Web Service Framework (XWSF).  All projects were managed and developed using open source practices.  
+\end{itemize}
+
+\href{http://chem.indiana.edu/}{\textbf{Indiana University Department of Chemistry}}, Bloomington, Indiana USA\\
+\textit{Software Engineer, \href{http://calm.indiana.edu/}{CALM project}} \hfill \textbf{2003 - 2005}
+\begin{itemize} \itemsep -2pt
+\item Developed and supported a custom content management system.
+\item Created web based software learning tools for university professors, teachers and students.
+\item Online course adviser for over 60 high schools and universities across the country.
+\end{itemize}
+
+\section{Education}
+\href{http://www.iub.edu/}{\textbf{Indiana University}}, Bloomington, Indiana USA\\
+\begin{tabular}{ p{10cm} l } 
+M.S., \href{http://xavier.informatics.indiana.edu/gradsites/bio/masters/}{Bioinformatics}, 2009 & B.S., \href{http://www.cs.indiana.edu/}{Computer Science}, 2005\\
+Thesis Topic: Disease Ontologies in Coral Reef Ecosystems & With Honors in Computer Science\\
+Adviser: \href{http://www.informatics.indiana.edu/dalkilic/}{Professor Mehmet Dalkilic} & \href{http://www.bio.indiana.edu/}{Biology} Minor
+\end{tabular}
+
+\href{http://www.seattleu.edu/coe/}{\textbf{Seattle University}}, Seattle, Washington USA\\
+Post-Baccalaureate Certificate in \href{http://www.schooloftesl.com/}{TESOL}, July 2010
+
+\section{Computer Competencies} 
+Languages: Python, Perl, Java, C\#/C++/C, Lisp, R, SQL and others\\
+Databases: MySQL, Oracle, MS SQL Server, HSQL, PostgreSQL\\
+Platforms: *NIX (many flavors), Mac, Windows
+
+\end{resume}
+
+\end{document}
