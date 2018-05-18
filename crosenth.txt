@@ -1,0 +1,53 @@
+Christopher Rosenthal
+
+Seattle, Washington
+crosenth@gmail.com
+
+Experience
+
+Bioinformatics Software Engineer 2012 - Present
+University of Washington Department of Laboratory Medicine,
+Seattle, Washington
+I am a bioinformatics developer of Python software packages and pipelines used to parse and analyze molecular microbiology next-gen sequencing data. My work has resulted in several publications. I have also helped expand our bioinformatics software development team and mentor new bioinformatics engineers.
+
+Full Stack Software Engineer 2009 - 2012
+The Seattle Times Company, Seattle, Washington
+I developed digital content distribution software. My role required the flexibility to develop using the latest software technologies on new and old platforms with minimal documentation. I had the pleasure of working alongside Pulitzer prize winning journalists, photographers and videographers. My role aided the transition from print and legacy software systems to cutting edge cloud based digital content management systems.
+
+Graduate Student 2007 - 2009
+Indiana University School of Informatics and Computing, Bloomington, Indiana
+Thesis Project: Using genomics to map disease in coral reef ecosystems.
+
+Software Development Engineer 2005 - 2007
+Regenstrief Institute, Indianapolis, Indiana
+I developed Java software applications to help doctors, pharmacists and physicians prescribe medicine and manage patient records.
+
+Software Development Engineer 2003 - 2005
+Department of Chemistry, Bloomington, Indiana
+At the Chemistry department I developed a content management system for digital classroom homework assignments. The system was custom developed using Perl and Javascript without the availability of today's web based software stack technologies.
+
+Education
+
+Indiana University, Bloomington, Indiana
+
+M.S., Bioinformatics, 2009
+B.S., Computer Science with Honors, Biology Minor, 2005
+
+Skills
+
+Portfolio: https://github.com/crosenth
+Software Languages: Python, Java, Perl, Lisp, SQL and more
+Python Libraries: Pandas, Numpy, Scipy, Biopython, Scons
+Databases: Postgres, SQLite, MySQL, HSQL, Oracle, MS SQL Server
+Productivity: Ubuntu Linux, Vim, Git, tmux, Bash scripting, Docker, cloud computing, AWS and more
+
+Personal Interestes
+
+Mobile software technologies, Sailing, Fishing, Crabbing, Crossfit
+
+Publications
+
+Clinical Next Generation Sequencing Outperforms Standard Microbiological Culture for Characterizing Polymicrobial Samples, Clinical Chemistry, 2016.
+Performance Comparison of Illumina and Ion Torrent Next-Generation Sequencing Platforms for 16S rRNA-Based Bacterial Community Profiling, Applied Environmental Microbiology, 2014.
+Molecular Diagnosis of Actinomadura madurae Infection by 16S rRNA Deep Sequencing, Journal of Clinical Microbiology, 2013.
+Rapid 16S rRNA Next-Generation Sequencing of Polymicrobial Clinical Samples for Diagnosis of Complex Bacterial Infections, PLoS One, 2013.
